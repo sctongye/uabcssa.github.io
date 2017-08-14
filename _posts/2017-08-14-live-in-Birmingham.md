@@ -31,7 +31,7 @@ apartment 和 condo 都是国内的楼房公寓，condo 一般是由产权的户
 
 ### 到达时
 
-- 对于访问学者和博士后，先去图书馆二层的 international house 办理来访手续，然后带着护照和DS2019以及推荐信，先去办理社保号SSN，打车去或者叫人带你去。能第一天办完就不拖到第二天，SSN 非常有用，开信用卡，学驾照。对于学生，请按学校要求进行登记。
+- 对于访问学者和博士后，先去图书馆二层的 international house 办理来访手续，然后带着护照和 DS2019 以及导师给你的推荐信，先去办理社保号 SSN，打车去或者叫人带你去。能第一天办完就不拖到第二天，SSN 非常有用，开信用卡，学驾照。对于学生，请按学校要求进行登记。
 - 尽量早日去银行开户，checking account。如果长期呆在这里，可以再办理个 saving account，但是美国很多银行的年利率是0.01%，基本等于没有利息，利息还需要扣税。然后请务必办理支票本。
 - 如果周末到达的话，先去 Walmart 超市购物，买买买，买吃的最重要，国内带有 visa 或者 master 标志的信用卡可以在 Walmart 消费。但注意 master 卡不能在 COSTCO 消费，所以尽量带 visa 的信用卡来美。
 
@@ -42,7 +42,7 @@ apartment 和 condo 都是国内的楼房公寓，condo 一般是由产权的户
 1. 夜晚降临不要出去，在校工作很晚，请叫校车护送。网址在这里：[https://www.uab.edu/blazerexpress/safety-escort](https://www.uab.edu/blazerexpress/safety-escort)
 2. 房租用支票付款，第一次有可能没有支票可以用于付款，这时要使用 money order 付款，需要去学校不远处的邮局兑换。
 3. 校内没有统一的会议通知系统，想要知道哪有会议信息，自己去各个教学楼找。
-4. 有了 SSN 号码就可以办理信用卡了，第一张信用卡开 [discover](https://refer.discover.com/s/azdx2) 的最低能拿到$1500的额度，额度少没关系，主要是能用，经常刷，积累信用。开卡后三个月内至少刷一次卡，你就可以得到$50 gift card。
+4. 有了 SSN 号码就可以办理信用卡了，第一张信用卡开 [discover](https://refer.discover.com/s/5eezs) 的最低能拿到$1500的额度，额度少没关系，主要是能用，经常刷，积累信用。开卡后三个月内至少刷一次卡，你就可以得到$50 gift card。
 5. 学英语很重要，学校有组织 [community english class](https://www.uab.edu/education/esl/community-english-classes)，在 education building，另外非常非常多的教会也有英语学习活动，可以来到这里后打听关注一下。
 6. 与学校的 international house （国际中心）保持联系，有问题就去骚扰他们。
 7. 学车考驾照可以在网上预约，这样到了就可以考，不用排队（据说）。 [http://www.alea.gov/Home/](http://www.alea.gov/Home/)
