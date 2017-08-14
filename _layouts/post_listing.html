@@ -39,7 +39,7 @@ layout: default
     <p>
     {% if post.content contains site.excerpt_separator %}
        {{ post.excerpt }}
-       <p style="text-align: right"><a href="{{ post.url | prepend: site.baseurl }}">阅读全文</a></p>
+       <p style="text-align: right"><a class="btn" href="{{ post.url | prepend: site.baseurl }}">阅读全文</a></p>
     {% else %}
       {{ post.content }}
     {% endif %}
