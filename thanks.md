@@ -1,7 +1,6 @@
 ---
 layout: thanks_post
-permalink: /pickup/submit_success
-tags: false
+permalink: /submit_success
 ---
 
 
