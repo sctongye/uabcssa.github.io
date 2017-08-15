@@ -1,6 +1,7 @@
 ---
-layout: post
-post_author: LY
+layout: thanks_post
+permalink: /pickup/submit_success
+tags: false
 ---
 
 
