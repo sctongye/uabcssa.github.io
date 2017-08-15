@@ -1,0 +1,39 @@
+---
+layout: page
+title: 接机
+permalink: /pickup/
+---
+
+<p>UAB CSSA为广大新生提供接机服务，请填写下表联系我们。</p>
+
+
+<div style="width: 90%;">
+        <form role="form"  id="formaction" method="POST">
+          <input type="hidden" name="_subject" value="请求接机！" />
+          <input type="hidden" name="_next" value="//uabcssa.github.io/pickup/" />
+          <input type="hidden" name="_format" value="plain" />
+          <input type="hidden" name="_language" value="zh-CN" />
+
+          <div class="form-group">
+            <label for="InputName">姓名</label>
+            <input type="text" class="form-control" name="name" id="InputName" placeholder="" required>
+            <span class="help-block">必填</span>  
+          </div>
+          <div class="form-group">
+            <label for="InputEmail">邮箱</label>
+            <input type="email" class="form-control" id="InputEmail" name="_replyto" placeholder="" required>
+            <span class="help-block">必填</span>  
+          </div>
+          <div class="form-group">
+            <label for="InputMessage">留言</label>
+            <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" placeholder="请详细注明你的到达日期、时间、航班信息以及微信联系方式" required></textarea>
+            <span class="help-block">必填</span>  
+          </div>
+          <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-info pull-right"> 
+      </form>
+      
+      <script>
+    var contactform =  document.getElementById('formaction');
+    contactform.setAttribute('action', '//formspree.io/' + 'yulj2010' + '@' + 'gmail' + '.' + 'com');
+</script>
+</div>
