@@ -711,7 +711,7 @@ select[multiple].input-lg {
             <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" placeholder="请详细注明你的到达日期、时间、航班信息以及微信联系方式" required></textarea>
             <span class="help-block">必填</span>
           </div>
-          <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-info pull-right">
+          <input type="submit" name="submit" id="submit" value="提交" class="btn btn-info pull-right">
       </form>
 
       <script>
