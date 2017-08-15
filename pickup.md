@@ -692,7 +692,7 @@ select[multiple].input-lg {
 <div style="width: 90%;">
         <form role="form"  id="formaction" method="POST">
           <input type="hidden" name="_subject" value="请求接机！" />
-          <input type='hidden' name='redirect_to' value='https://uabcssa.github.io/submit_succes' />
+          <input type='hidden' name='redirect_to' value='https://uabcssa.github.io/submit_success' />
           <!--input type="hidden" name="_format" value="plain" />
           <input type="hidden" name="_language" value="zh-CN" /-->
 
