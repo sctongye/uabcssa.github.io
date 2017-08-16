@@ -1,5 +1,5 @@
 ---
-layout: thanks_post
+layout: submit_success
 permalink: /submit_success
 ---
 
