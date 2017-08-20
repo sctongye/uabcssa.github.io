@@ -1,6 +1,12 @@
 ---
-published: true
+layout: post
+title:  "2017年秋季新生答疑会"
+post_author: PJM	
+date:   2017-08-20 17:35:00
+categories: [信息]
+comments: false
 ---
+
 欢迎2017秋季新生们来到UAB！
 
 你，是否还在为租房，买车，考驾照而烦恼？
