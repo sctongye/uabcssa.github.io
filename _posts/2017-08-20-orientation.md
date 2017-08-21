@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "2017年秋季新生答疑会"
-post_author: PJM	
-date:   2017-08-20 17:35:00
-categories: [信息]
+title: 2017年秋季新生答疑会
+post_author: PJM
+date: {}
+categories:
+  - 信息
 comments: false
+published: true
 ---
 
 欢迎2017秋季新生们来到UAB！
@@ -19,4 +21,4 @@ comments: false
 
 那么，来参加我们的新生答疑会吧！为了让大家对UAB的学习生活有全方位的了解，UAB CSSA将于**<font color="red">8月26日6:30-8:30p.m.在shelby 105 </font>** 举办新生答疑会(●'◡'●)ﾉ
 
-![CSSA官方微信群](http://i.imgur.com/PKL3Eqv.jpg)
+![CSSA官方微信群](http://i.imgur.com/NtKAaus.jpg)
