@@ -23,4 +23,4 @@ published: true
 
 我们会提供免费的薯片和饮料，分享+畅饮，期待你的到来(づ￣ ³￣)づ
 
-![CSSA官方微信群](http://i.imgur.com/NtKAaus.jpg)
+![CSSA官方微信群](http://i.imgur.com/2MthLve.jpg)
