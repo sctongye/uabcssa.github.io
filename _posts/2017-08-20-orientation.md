@@ -2,7 +2,7 @@
 layout: post
 title: 2017年秋季新生答疑会
 post_author: PJM
-date: {}
+date: 2017-08-21T10:50:00.000Z
 categories:
   - 信息
 comments: false
