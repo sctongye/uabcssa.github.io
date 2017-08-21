@@ -21,4 +21,6 @@ published: true
 
 那么，来参加我们的新生答疑会吧！为了让大家对UAB的学习生活有全方位的了解，UAB CSSA将于**<font color="red">8月26日6:30-8:30p.m.在shelby 105 </font>** 举办新生答疑会(●'◡'●)ﾉ
 
+我们会提供免费的薯片和饮料，分享+畅饮，期待你的到来(づ￣ ³￣)づ
+
 ![CSSA官方微信群](http://i.imgur.com/NtKAaus.jpg)
