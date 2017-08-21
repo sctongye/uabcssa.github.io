@@ -18,7 +18,7 @@ timezone:          US
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+# permalink:         /articles/:year-:month/:title
 
 kramdown:
   auto_ids: true
@@ -26,6 +26,9 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+
+plugins: [jekyll-paginate]
+paginate: 5
 
 #
 ###################################

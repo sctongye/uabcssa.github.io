@@ -65,6 +65,22 @@ layout: default
 
 -->
 
+<section class="pager">
+  <!--ul-->
+    {% if page.previous %}
+    <a class="btn btn-pager" href="{{ site.baseurl }}{{ page.previous.url }}" title="上一篇">&larr; 上一篇</a>
+    {% else %}
+    <a class="btn btn-pager-disable">&larr; 上一篇</a>
+    {% endif %}
+    {% if page.next %}
+    <a class="btn btn-pager" href="{{ site.baseurl }}{{ page.next.url }}" title="下一篇">下一篇 &rarr;</a>
+    {% else %}
+    <a class="btn btn-pager-disable">下一篇 &rarr;</a>
+    {% endif %}
+  <!--/ul-->
+</section>
+
+
 {% if site.owner.disqus-shortname and page.comments == true %}
 <div id="disqus_thread"></div>
 {% include disqus.html %}

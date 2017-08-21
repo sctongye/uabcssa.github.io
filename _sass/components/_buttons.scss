@@ -90,3 +90,36 @@
     border-color: $info;
   }
 }
+
+
+
+.btn-pager {
+  background-color: $pager-col;
+  color: $white;
+  border-color: $pager-col;
+  &:visited {
+    border-color: $pager-col;
+    color: $white;
+  }
+  &:hover {
+    background-color: $white;
+    color: $pager-col;
+    border-color: $pager-col;
+  }
+}
+
+
+.btn-pager-disable {
+  background-color: $pager-disable;
+  color: $white;
+  border-color: $pager-disable;
+  &:visited {
+    border-color: $pager-disable;
+    color: $white;
+  }
+  &:hover {
+    background-color: $white;
+    color: $pager-disable;
+    border-color: $pager-disable;
+  }
+}
