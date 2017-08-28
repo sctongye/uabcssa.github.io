@@ -7,7 +7,7 @@ categories: [攻略]
 comments: false
 ---
 
-转载并编辑自[伯城生活指南](https://yuyangmars.wordpress.com/2016/11/01/%E4%BC%AF%E5%9F%8E%E7%94%9F%E6%B4%BB%E6%8C%87%E5%8D%97/)。
+转载并编辑自<伯城生活指南>。
 
 > 这是一篇访问学者和学生在伯城生活的究极指南攻略，极限玩家可以试一试。
 
