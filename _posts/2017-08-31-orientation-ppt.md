@@ -4,7 +4,7 @@ title: 2017年秋季新生答疑会ppt
 post_author: LY
 date: 2017-08-31T10:47:00.000Z
 categories:
-  - 信息
+  - 资源
 comments: false
 published: true
 ---
