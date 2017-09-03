@@ -6,6 +6,7 @@ categories:
   - 工具
 title: 如何编辑CSSA网站的文章
 ---
+
 ## CSSA 网站编辑使用教程
 
 ### 注册Github加入CSSA网站编辑团队
@@ -14,6 +15,8 @@ title: 如何编辑CSSA网站的文章
 UAB CSSA 将自己的官网托管在 Github page上，静态网站，永久免费，多人共同编辑。
 
 加入 CSSA 网站编辑团队（所有的CSSA成员都要加入），首先要注册 Github 账号，然后联系 uabcssa 团队的管理员来邀请成员加入[uabcssa](https://github.com/uabcssa)。
+
+<!--more-->
 
 ### 连接prose.io你的Github账号
 
@@ -61,7 +64,7 @@ UAB CSSA 将自己的官网托管在 Github page上，静态网站，永久免�
 
 ![metainfo](http://i.imgur.com/2P71iQE.png)
 
-文章的 metainfo 就是头文件，里面包含文章的layout（文章模版），post_author（作者），date（发布时间），category（文章目录），title（文章题目）。
+文章的 metainfo 就是头文件，里面包含文章的layout（文章模版），post_author（作者），category（文章目录），title（文章题目，在最上方的横条处）。
 
 
 ## 网站管理员的工作
