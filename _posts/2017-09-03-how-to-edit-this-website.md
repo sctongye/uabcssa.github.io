@@ -2,7 +2,6 @@
 published: true
 layout: post
 post_author: LY
-date: {}
 categories:
   - 工具
 title: 如何编辑CSSA网站的文章
