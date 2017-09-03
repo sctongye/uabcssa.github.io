@@ -52,12 +52,18 @@ UAB CSSA 将自己的官网托管在 Github page上，静态网站，永久免�
 
 右边的眼睛按钮可以在线查看自己写的文章，展示在我们的网站上是什么样子的。
 
+- 文章的metainfo
+
+![metainfo](http://i.imgur.com/2P71iQE.png)
+
+文章的 metainfo 就是头文件，里面包含文章的layout（文章模版），post_author（作者），date（发布时间），category（文章目录），title（文章题目）。
+
 
 ## 网站管理员的工作
 
 1. 帮助维护网站的所有页面，查看并修改成员编写的文章。
 2. 帮助成员上传文章所需图片到[imgur](http://imgur.com/)，注意从 imgur 网站上右键，找到图片的地址（一般以 png 结尾），并根据 markdown 语法将图片插入到网站的文章中。
 3. 帮助成员按照 markdown 语法修改文章中的连接。
-4. 培训成员网站编辑技术。
-
-
+4. 帮助成员填写文章的 metainfo
+5. 审核并发布文章
+6. 培训成员网站编辑技术。
