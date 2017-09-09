@@ -2,8 +2,7 @@
 published: true
 layout: post
 post_author: XY
-categories:
-  - 活动
+categories: 活动
 title: 周边活动（9/16-9/17）
 ---
 
