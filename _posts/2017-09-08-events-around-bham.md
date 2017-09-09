@@ -51,6 +51,6 @@ title: 周边活动（9/16-9/17）
 
 > 除了Music Midtown之外享受表演和美食的另一个去处。
 
-> 周六晚上有Hibiki After Hour Concer（门票另售，$12）。
+> 周六晚上有Hibiki After Hour Concert（门票另售，$12）。
 
 
