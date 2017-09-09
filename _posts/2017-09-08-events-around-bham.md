@@ -10,7 +10,7 @@ title: 周边活动（9/16-9/17）
 ## 伯明翰周边活动大搜集（2017/9/8更新）
 
 ### 9/16-9/17 @ Atlanta 亚特兰大
-为大家收集了下周末在亚特兰大的三个活动，周末时光怎么能缺少音乐和美食！
+周末时光怎么能缺少音乐和美食的陪伴！隔壁亚特兰大下个周末非常的热闹，这里为大家整理了三个活动，快来看看吧。
 
 <!--more-->
 
@@ -28,17 +28,19 @@ title: 周边活动（9/16-9/17）
 
 > Bruno Mars周六晚上会在Salesforce舞台，一曲“That's What I Like”引燃了今年的夏天，快到亚特兰大现场体验一下吧！
 
+
 #### Lady M Boutique Pop Up
 ![Lady M Pop Up](https://i.imgur.com/buQ0noO.jpg)
 > [网站](https://bit.ly/LadyMAtlanta)
 
 > 地点：[3875 Venture Dr, Duluth, GA](https://goo.gl/maps/p2KiMVp9fD12)
 
-> 来自纽约的人气甜品店“Lady M”下周末会在亚特兰大带来“Boutique Pop-Up”活动，不用飞去纽约也能品尝到美味的蛋糕。
+> 来自纽约的人气甜品店“Lady M”下周末会在亚特兰大带来“Boutique Pop-Up”活动，不用飞去纽约也能品尝到美味的蛋糕啦。
 
-> 活动期间可以在店内买到切块的蛋糕，数量有限卖完即止哦。整块蛋糕需要在[网站](https://bit.ly/LadyMAtlanta)上提前选好日期预定，当日凭票取蛋糕。
+> 活动期间可以在店内买到切块的蛋糕，数量有限卖完即止。整块蛋糕需要在[网站](https://bit.ly/LadyMAtlanta)上提前选好日期预定，当日凭票取蛋糕。
 
-> 要注意当天卖的全是新鲜蛋糕，不能在室温下存放超过一个小时，如果订了整块蛋糕建议大家最好和朋友一起分享新鲜美味。
+> 要注意当天卖的全是<b>新鲜蛋糕</b>，不能在室温下存放超过一个小时，如果订了整块蛋糕建议大家最好和朋友一起分享新鲜美味。
+
 
 #### JapanFest 2017
 ![Japanfest](https://i.imgur.com/A4Cj0Rf.jpg)
