@@ -13,7 +13,7 @@
         <a href="{{ site.baseurl }}/">主页</a>
        <span>/</span> 
       </li>
-      {% for page in site.pages limit: 7 %} {% if page.title  %}
+      {% for page in site.pages limit: 8 %} {% if page.title  %}
       <li class="nav-item">
         <a href="{{  page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         {% unless forloop.last %}
