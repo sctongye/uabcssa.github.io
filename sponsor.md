@@ -15,8 +15,7 @@ published: true
 
 『悦禾旅游』为您提供美国境内&境外旅行，机票订购、行程规划等服务。
 
-UABCSSA专属客服
-QQ/微信2355258131
+UABCSSA专属客服：QQ/微信2355258131
 
 ![悦禾旅游](http://mmbiz.qpic.cn/mmbiz_png/5iaNRa8wZOtLIeRYzMdI3sfhIJuLicKDP7IdKiaBia2v2fYic0iafRibNJXsGgPyuzOApFbGul64huONiaqic3w0Ktqib6ug/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
 
