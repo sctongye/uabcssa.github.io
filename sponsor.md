@@ -7,7 +7,8 @@ published: true
 
 ### 新干线快递伯明翰店
 
-
+伯明翰同城价格最低，时效最快，服务最好，打包最专业，请认准『新干线快递』
+地址：243 W Valley Ave, Homewood, AL, 35209 （超群超市旁）
 
 
 
@@ -17,7 +18,7 @@ published: true
 
 UABCSSA专属客服：QQ/微信2355258131
 
-![悦禾旅游](https://i.imgur.com/dSyWOg0.jpg)
+![悦禾旅游](https://i.imgur.com/l0QfTpD.jpg)
 
 更多北美实时新闻.留学热点.旅行攻略.北美旅行产品.订制旅行服务
 
