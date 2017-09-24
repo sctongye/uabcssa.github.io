@@ -17,7 +17,7 @@ published: true
 
 UABCSSA专属客服：QQ/微信2355258131
 
-![悦禾旅游](http://mmbiz.qpic.cn/mmbiz_png/5iaNRa8wZOtLIeRYzMdI3sfhIJuLicKDP7IdKiaBia2v2fYic0iafRibNJXsGgPyuzOApFbGul64huONiaqic3w0Ktqib6ug/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![悦禾旅游](https://i.imgur.com/dSyWOg0.jpg)
 
 更多北美实时新闻.留学热点.旅行攻略.北美旅行产品.订制旅行服务
 
