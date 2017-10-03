@@ -12,9 +12,9 @@ title: 中秋快乐！
 
 UAB CSSA 来自现场的祝福和组织介绍：
 
-![UAB_CSSA_mid_autumn](https://i.imgur.com/60ZJVnP.jpg)
+![UAB_CSSA_mid_autumn](https://i.imgur.com/YyS6qTz.jpg)
 
-![UAB_CSSA_info](https://i.imgur.com/rhTlENp.jpg)
+![UAB_CSSA_info](https://i.imgur.com/LyGh14U.jpg)
 
 
 更多活动照片请看这里：[google 相册](https://photos.google.com/share/AF1QipMkSV0XEi-ax0wwqOdsNEPvh8NXOrVZQfJGUBlTzsbR32LkAafH_oj0PqrSE26hbw?key=cGlYMzJKZkhnYk5DQWUyVWNoWmlOT0JoNlFYQU9R)。
