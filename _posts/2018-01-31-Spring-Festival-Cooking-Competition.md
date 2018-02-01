@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: "春节厨艺大赛"
-author: Yu
+post_author: LY
 categories: 活动
 tags:
 - 春节
