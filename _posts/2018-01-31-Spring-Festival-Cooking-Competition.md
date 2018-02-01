@@ -21,5 +21,8 @@ spring festival
 ![cooking](https://i.imgur.com/VpRBkxH.jpg)
 
 
+本次活动奖品有新干线快递独家赞助！
+
+
 
 
