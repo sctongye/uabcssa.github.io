@@ -1,16 +1,13 @@
 ---
 published: true
 layout: post
-title: "春节厨艺大赛"
 post_author: LY
+title: "春节厨艺大赛"
 categories: 活动
-tags:
-- 春节
-- 农历新年
 ---
 
 
-群里的朋友看过来，UAB CSSA将在2月11日，星期天，下午六点到七点半在HSC举办春节厨艺大赛！
+伯明翰的朋友看过来，UAB CSSA 将在2月11日，星期天，下午六点到七点半在 HSC 举办春节厨艺大赛！
 
 有吃，有玩，有红包，有惊喜，奖品丰盛，趣味多多，快来报名参加吧！
 
