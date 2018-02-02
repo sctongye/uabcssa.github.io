@@ -29,7 +29,7 @@ categories: 活动
 </div>
 
 
-![cooking](https://i.imgur.com/VpRBkxH.jpg)
+![cooking](https://i.imgur.com/aHwlFtK.jpg)
 
 
 本次活动奖品由新干线快递独家赞助！
