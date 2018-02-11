@@ -11,6 +11,7 @@ categories: 活动
 
 有吃，有玩，有红包，有惊喜，奖品丰盛，趣味多多，快来报名参加吧！
 
+<!--
 <style>
 @media (max-width: 767px) {
     iframe {
@@ -30,6 +31,9 @@ categories: 活动
 
 
 ![cooking](https://i.imgur.com/aHwlFtK.jpg)
+-->
+
+预约结束。
 
 ![cooking_english](https://i.imgur.com/mmouaRV.png)
 
